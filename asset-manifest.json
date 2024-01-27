@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/static/js/main.da6a325a.js",
+    "static/js/287.c3bff4f0.js": "/static/js/287.c3bff4f0.js",
+    "static/media/Ionicons.ttf": "/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/bg2.jpg": "/static/media/bg2.e121723b3190157f9aed.jpg",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "static/media/hi1.png": "/static/media/hi1.d7775512072d6a1d1cb5.png",
+    "static/media/hi2.png": "/static/media/hi2.79dcf8733b0a99e71fdf.png",
+    "static/media/hi6.png": "/static/media/hi6.dff1853941cdc2be616b.png",
+    "static/media/hi5.png": "/static/media/hi5.4b0ae83145a2630ab718.png",
+    "static/media/hi9.png": "/static/media/hi9.6960d1926d3ee535294d.png",
+    "static/media/hi3.png": "/static/media/hi3.6cbd2a553fd6fadf19f1.png",
+    "favicon-32.png": "/favicon-32.png",
+    "static/media/hi10.png": "/static/media/hi10.a215a4cee7b032a47ff1.png",
+    "static/media/hi7.png": "/static/media/hi7.e809c98c2be49974877c.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.da6a325a.js.map": "/static/js/main.da6a325a.js.map",
+    "287.c3bff4f0.js.map": "/static/js/287.c3bff4f0.js.map"
+  },
+  "entrypoints": [
+    "static/js/287.c3bff4f0.js",
+    "static/js/main.da6a325a.js"
+  ]
+}
